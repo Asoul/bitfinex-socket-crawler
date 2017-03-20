@@ -2,6 +2,10 @@
 
 A Bitfinex websocket (v1.1) crawler, save ticker data to MySQL, run with supervisor.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Asoul/bitfinex-socket-crawler/master/img/bitfinex.svg"></img>
+</p>
+
 ## Requirements
 
 - Python3
@@ -70,5 +74,5 @@ MIT
 BTC Wallet: `3QB4Liv4Yp1ttpHnk8DT135juhKTBEWDc7`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Asoul/okcoin-socket-crawler/master/img/qrcode.png"></img>
+  <img src="https://raw.githubusercontent.com/Asoul/bitfinex-socket-crawler/master/img/qrcode.png"></img>
 </p>
