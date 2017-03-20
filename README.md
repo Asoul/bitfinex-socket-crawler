@@ -3,7 +3,7 @@
 A Bitfinex websocket (v1.1) crawler, save ticker data to MySQL, run with supervisor.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Asoul/bitfinex-socket-crawler/master/img/bitfinex.svg"></img>
+  <img src="https://raw.githubusercontent.com/Asoul/bitfinex-socket-crawler/master/img/bitfinex.jpg"></img>
 </p>
 
 ## Requirements
