@@ -1,0 +1,5 @@
+[Master]
+
+[MESSAGES CONTROL]
+
+disable=missing-docstring,C0103,broad-except,too-few-public-methods,too-many-branches,line-too-long,duplicate-code,too-many-instance-attributes,too-many-statements,locally-disabled,fixme,too-many-locals,too-many-return-statements,no-self-use
